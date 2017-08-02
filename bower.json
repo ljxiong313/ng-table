@@ -1,0 +1,24 @@
+{
+  "name": "bower-ng-table",
+  "description": "Simple table with sorting and filtering on AngularJS",
+  "version": "4.0.0",
+  "main": [
+    "ng-table.js",
+    "ng-table.css"
+  ],
+  "authors": [
+    "ljxiong313@163.com"
+  ],
+  "license": "BSD",
+  "keywords": [
+    "angular",
+    "table",
+    "data",
+    "grid",
+    "directive"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.5.13"
+  }
+}

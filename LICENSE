@@ -1,36 +1,3 @@
-# ng-table package for bower
-
-This repo is for distribution on `bower`. The source for this module is in the
-[main ng-table repo](https://github.com/esvit/ng-table/tree/master/src).
-Please file issues and pull requests against that repo.
-
-## Install
-
-### bower
-
-Install the current stable release:
-
-```shell
-bower install bower-ng-table --save
-```
-
-Or install the latest beta release:
-
-```shell
-bower install bower-ng-table --save
-```
-
-## Getting started
-
-Please follow the getting started steps [here](http://ng-table.com/)
-
-## Documentation
-
-Documentation is available on the
-[ng-table website](http://ng-table.com/).
-
-## License
-
 Copyright (c) 2013, esvit.
 All rights reserved.
 
