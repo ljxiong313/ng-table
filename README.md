@@ -2,7 +2,7 @@
 
 This repo is for distribution on `bower`. The source for this module is in the
 [main ng-table repo](https://github.com/esvit/ng-table/tree/master/src). And you can find
-some [http://ng-table.com/#/](demo)
+some [demo](http://ng-table.com/#/)
 Please file issues and pull requests against that repo.
 
 ## Install
